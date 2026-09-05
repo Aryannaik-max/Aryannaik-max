@@ -1,10 +1,10 @@
-### Hi there, I'm Aryan!
+### 👋 Hi there, I'm Aryan!
 
 Full-stack developer with a JavaScript/Node.js background, currently branching into Python and AI-adjacent tooling. I build complete, deployed products rather than tutorials-left-half-finished — most of my repos are full-stack apps with a real frontend, backend, and database behind them.
 
 ---
 
-### When I code, I rely on
+### 🛠️ When I code, I rely on
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,9 +31,9 @@ Full-stack developer with a JavaScript/Node.js background, currently branching i
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-####  [CodeClash](https://github.com/Aryannaik-max/CodeClash)
+#### ⚔️ [CodeClash](https://github.com/Aryannaik-max/CodeClash)
 A **1v1 real-time competitive programming platform** — a head-to-head coding duel arena.
 - Built with **Next.js, TypeScript, Express, Redis, and PostgreSQL**
 - **Monaco Editor** integrated for an in-browser coding experience
@@ -43,7 +43,7 @@ A **1v1 real-time competitive programming platform** — a head-to-head coding d
 - Backend hardened with a **Prisma transaction fix** for a match-creation race condition; DB migrated to **Neon** after a large-row OOM issue on the free tier
 - In progress: pluggable code-execution/judge service (Wandbox/Judge0)
 
-####  [Novaspace](https://github.com/Aryannaik-max/Novaspace) + [Novaspace-Backend](https://github.com/Aryannaik-max/Novaspace-Backend)
+#### 🪐 [Novaspace](https://github.com/Aryannaik-max/Novaspace) + [Novaspace-Backend](https://github.com/Aryannaik-max/Novaspace-Backend)
 A **real-time collaborative workspace app** in the spirit of Notion/Linear — workspaces, live collaborative documents, task boards, file sharing, and team chat.
 - **React + Vite** frontend, deployed on Vercel
 - **Liveblocks** for real-time presence/collaboration
@@ -52,13 +52,13 @@ A **real-time collaborative workspace app** in the spirit of Notion/Linear — w
 
 ---
 
-### Beyond the Code
+### 🧠 Beyond the Code
 
 I'm also active in **competitive programming** — working through Codeforces and CodeChef contests and LeetCode by pattern (sliding window, two pointers, binary search, hashing, monotonic stacks), which feeds directly into how I think about performance and edge cases in my projects (like the CodeClash judge pipeline).
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="./profile/stats.svg" height="165" alt="Aryan's GitHub stats" />
@@ -71,9 +71,12 @@ I'm also active in **competitive programming** — working through Codeforces an
 
 ---
 
-###  Let's Connect
+### 📫 Let's Connect
 
-Open to remote full-stack opportunities — feel free to check out [CodeClash](https://github.com/Aryannaik-max/CodeClash) or [Novaspace](https://github.com/Aryannaik-max/Novaspace) and reach out through GitHub.
+Open to remote full-stack opportunities — feel free to check out [CodeClash](https://github.com/Aryannaik-max/CodeClash) or [Novaspace](https://github.com/Aryannaik-max/Novaspace).
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-naik-a75b98324/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryannaik365@gmail.com)
 
 <!--
 Rendering notes:
