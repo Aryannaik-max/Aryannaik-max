@@ -49,7 +49,6 @@ A **1v1 real-time competitive programming platform** — a head-to-head coding d
 A **real-time collaborative workspace app** in the spirit of Notion/Linear — workspaces, live collaborative documents, task boards, file sharing, and team chat.
 - **React + Vite** frontend, deployed on Vercel
 - **Liveblocks** for real-time presence/collaboration
-- **Tiptap + Yjs** powering the collaborative rich-text editor
 - **Tailwind CSS** for styling, **JWT** for auth
 - Split into dedicated frontend and backend repositories
 
